@@ -450,3 +450,11 @@ Stack trace:
 #22 {main}
 REQUEST_URI=/devtest/site/login
 ---
+2016/11/27 11:53:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "htmltest".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('htmltest')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/htmltest
+---
