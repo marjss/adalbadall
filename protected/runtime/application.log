@@ -458,3 +458,300 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/adalbadall/htmltest
 ---
+2016/11/30 18:02:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo/logo-white.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/logo/log...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/logo/logo-white.png
+HTTP_REFERER=http://localhost/adalbadall/css/style.css
+---
+2016/11/30 18:02:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/icon-domain.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/icon-dom...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/icon-domain.png
+HTTP_REFERER=http://localhost/adalbadall/
+---
+2016/11/30 18:02:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/icon-ip.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/icon-ip....')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/icon-ip.png
+HTTP_REFERER=http://localhost/adalbadall/
+---
+2016/11/30 18:02:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/backgrounds/dark-desert-hills.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/backgrou...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/backgrounds/dark-desert-hills.jpg
+HTTP_REFERER=http://localhost/adalbadall/css/style.css
+---
+2016/11/30 18:02:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/icon-whois.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/icon-who...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/icon-whois.png
+HTTP_REFERER=http://localhost/adalbadall/
+---
+2016/11/30 18:02:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:02:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:02:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.ttf".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.ttf?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:04:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/icon-whois.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/icon-who...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/icon-whois.png
+HTTP_REFERER=http://localhost/adalbadall/
+---
+2016/11/30 18:04:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/icon-ip.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/icon-ip....')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/icon-ip.png
+HTTP_REFERER=http://localhost/adalbadall/
+---
+2016/11/30 18:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/icon-domain.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/icon-dom...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/icon-domain.png
+HTTP_REFERER=http://localhost/adalbadall/
+---
+2016/11/30 18:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/backgrounds/dark-desert-hills.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/backgrou...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/backgrounds/dark-desert-hills.jpg
+HTTP_REFERER=http://localhost/adalbadall/css/style.css
+---
+2016/11/30 18:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo/logo-white.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/logo/log...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/logo/logo-white.png
+HTTP_REFERER=http://localhost/adalbadall/css/style.css
+---
+2016/11/30 18:04:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:04:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.ttf".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.ttf?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo/logo-white.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/logo/log...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/logo/logo-white.png
+HTTP_REFERER=http://localhost/adalbadall/css/style.css
+---
+2016/11/30 18:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/icon-domain.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/icon-dom...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/icon-domain.png
+HTTP_REFERER=http://localhost/adalbadall/
+---
+2016/11/30 18:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/icon-ip.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/icon-ip....')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/icon-ip.png
+HTTP_REFERER=http://localhost/adalbadall/
+---
+2016/11/30 18:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/icon-whois.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/icon-who...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/icon-whois.png
+HTTP_REFERER=http://localhost/adalbadall/
+---
+2016/11/30 18:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/backgrounds/dark-desert-hills.jpg".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/backgrou...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/images/backgrounds/dark-desert-hills.jpg
+HTTP_REFERER=http://localhost/adalbadall/css/style.css
+---
+2016/11/30 18:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.ttf".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.ttf?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:16:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:16:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:16:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.ttf".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.ttf?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:16:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:16:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:16:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.ttf".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.ttf?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:18:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:18:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.woff".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.woff?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---
+2016/11/30 18:18:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/fontawesome-webfont.ttf".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('fonts/fontaweso...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\adalbadall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adalbadall/fonts/fontawesome-webfont.ttf?v=4.3.0
+HTTP_REFERER=http://localhost/adalbadall/css/font-awesome.css
+---

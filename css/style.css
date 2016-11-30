@@ -891,7 +891,7 @@ input[type="button"].btn-block {
 .first-navbar .navbar-nav>li{float:left}
 .first-navbar .navbar-nav>li>a{line-height:28px;padding-top:0;padding-bottom:0}
 .first-navbar .navbar-nav.navbar-right{float:right !important;float:right;margin-right:-15px}
-.second-navbar{position:fixed;z-index:1035;top:28px;right:0;left:0}
+.second-navbar{position:fixed!important;z-index:1035;top:28px;right:0;left:0}
 .second-navbar.affix{top:0}
 .first-navbar.affix,.second-navbar.affix,.first-navbar.affix-top,.second-navbar.affix-top{-webkit-transition:all .2s ease-in;transition:all .2s ease-in}
 .has-feedback .form-control{padding-right:32px}
